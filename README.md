@@ -7,6 +7,8 @@
 
 ## Description
 
+Fork of Sentora for Debian 8 PHP 7.2 (without Suhosin)
+
 [Sentora](http://sentora.org) is based on an original fork of ZPanelCP, Sentora is an open-source web hosting control panel written in PHP and is designed to work with with Linux, UNIX and the BSD's.
 
 Sentora is developed and maintained by the original ZPanel team members ([ballen](http://bobbyallen.me), tgates, kandrews, motters etc.)
